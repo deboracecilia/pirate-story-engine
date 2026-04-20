@@ -90,18 +90,6 @@ Escolha uma frase de efeito: O mar nunca esquece!
 ```bash
 python nome_do_arquivo.py
 ```
-
----
-
-## 💡 Melhorias futuras (ótimo para portfólio 👀)
-
-* Implementar sistema real de vida ❤️
-* Criar sistema de energia ⚡
-* Adicionar inventário 🎒
-* Salvar progresso do jogador 💾
-* Criar interface gráfica (Tkinter ou web)
-* Transformar em jogo com múltiplos capítulos
-
 ---
 
 ## 🧩 Aprendizados
@@ -113,12 +101,3 @@ Além de lógica, ele desenvolve:
 * pensamento estruturado
 * construção de narrativas
 * experiência do usuário (UX)
-
----
-
-## ✨ Autora
-
-**Débora Cecília**
-Engenharia de Alimentos • Dados • Tecnologia
-
----
